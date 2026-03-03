@@ -60,18 +60,18 @@
 ---
 
 ## 🏆 Certifications
+## 📜 Certifications
 
 | Certification | Platform |
-|---|---|
-| 🐳 Docker | — |udemy |
-| ⚙️ Jenkins | — |udemy |
-| ☸️ Kubernetes | — |udemy |
-| 💻 Bash Scripting | — |udemy |
-| 🐧 Linux | — |udemy |
-| 🔐 VAPT (Vulnerability Assessment & Penetration Testing) | — |
+|---------------|----------|
+| 🐳 Docker | Udemy |
+| ⚙️ Jenkins | Udemy |
+| ☸️ Kubernetes | Udemy |
+| 💻 Bash Scripting | Udemy |
+| 🐧 Linux | Udemy |
+| 🔐 VAPT (Vulnerability Assessment & Penetration Testing) | Udemy |
 | 🎯 TryHackMe | TryHackMe |
 | 🏅 Multiple CTF Completions | Various |
-
 ---
 
 ## 📬 Contact
