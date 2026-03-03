@@ -63,11 +63,11 @@
 
 | Certification | Platform |
 |---|---|
-| 🐳 Docker | — |
-| ⚙️ Jenkins | — |
-| ☸️ Kubernetes | — |
-| 💻 Bash Scripting | — |
-| 🐧 Linux | — |
+| 🐳 Docker | — |udemy |
+| ⚙️ Jenkins | — |udemy |
+| ☸️ Kubernetes | — |udemy |
+| 💻 Bash Scripting | — |udemy |
+| 🐧 Linux | — |udemy |
 | 🔐 VAPT (Vulnerability Assessment & Penetration Testing) | — |
 | 🎯 TryHackMe | TryHackMe |
 | 🏅 Multiple CTF Completions | Various |
@@ -82,4 +82,3 @@
 
 ---
 
-*Open to DevOps internships, security projects, and collaboration opportunities.*
