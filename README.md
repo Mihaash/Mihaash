@@ -81,7 +81,7 @@
 - 📧 Email: [mihaash@example.com](mailto:mihaash@example.com)
 - 🔗 LinkedIn: [linkedin.com/in/mihaash-dharan](https://linkedin.com/in/mihaash-dharan)
 - 🐙 GitHub: [github.com/Mihaash](https://github.com/Mihaash)
+- 🌐 Portfolio: [mihaash.github.io](https://mihaash.github.io/)
 
 ---
 
-*Open to DevOps internships, security projects, and collaboration opportunities.*
