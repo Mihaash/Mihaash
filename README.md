@@ -4,7 +4,7 @@
 > Passionate about building scalable, secure, and automated systems.  
 > Actively working on real-world projects involving CI/CD, Docker, threat intelligence, and automation.
 
-📧 [mihaash@example.com](mailto:mihaash@example.com) · 🔗 [LinkedIn](https://linkedin.com/in/mihaash-dharan) · 🐙 [GitHub: Mihaash](https://github.com/Mihaash)
+📧 [mihaashdharan68@gmail.com](mailto:mihaashdharan68@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/mihaash-dharan) · 🐙 [GitHub: Mihaash](https://github.com/Mihaash)
 
 
 ## 🚀 Projects
@@ -48,8 +48,7 @@
 - Rapid triage of malware samples — understand what a file can do, fast
 - Streamlines the malware analysis workflow end-to-end
 
-**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-000000?style=flat-square&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-000000?style=flat-square&logoColor=white)
 🔗 [GitHub Repository](https://github.com/Mihaash/Malware-capy)
 
 ---
