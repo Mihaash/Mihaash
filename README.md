@@ -37,144 +37,284 @@ Experienced in Kubernetes, AWS, CI/CD, GitOps, DevSecOps, Infrastructure as Code
 - 🧑‍💻 Open Source Learner
 
 ---
-
 # 🛠 Tech Stack
 
 ## ☁️ DevOps & Cloud
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,aws,git,github,bash,linux,ubuntu,vscode&theme=dark" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
+
+<b>Docker</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>
+
+<b>Kubernetes</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br>
+
+<b>Jenkins</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>
+
+<b>GitHub Actions</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=terraform" width="48"/><br>
+
+<b>Terraform</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+
+<b>Git</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+
+<b>GitHub</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=bash" width="48"/><br>
+
+<b>Bash</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>
+
+<b>Linux</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br>
+
+<b>Ubuntu</b>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🚀 GitOps
+# ☁️ AWS
 
-<p align="left">
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-</p>
+<table>
 
----
+<tr>
 
-## ☁️ AWS Services
+<td align="center" width="120">
 
-<p align="left">
+<img src="https://img.shields.io/badge/AWS-EKS-FF9900?style=for-the-badge"/><br>
 
-<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<b>Amazon EKS</b>
 
-<img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</td>
 
-<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<td align="center" width="120">
 
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-ECR-FF9900?style=for-the-badge"/><br>
 
-<img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<b>Amazon ECR</b>
 
-<img src="https://img.shields.io/badge/AWS_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</td>
 
-<img src="https://img.shields.io/badge/AWS_Secrets_Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<td align="center" width="120">
 
-<img src="https://img.shields.io/badge/AWS_ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge"/><br>
 
-<img src="https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<b>Amazon EC2</b>
 
-</p>
+</td>
 
----
+<td align="center" width="120">
 
-## 🔒 DevSecOps
+<img src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge"/><br>
 
-<p align="left">
+<b>Amazon S3</b>
 
-<img src="https://img.shields.io/badge/Gitleaks-000000?style=for-the-badge"/>
+</td>
 
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
+</tr>
 
-<img src="https://img.shields.io/badge/Checkov-000000?style=for-the-badge"/>
+<tr>
 
-<img src="https://img.shields.io/badge/Hadolint-000000?style=for-the-badge"/>
+<td align="center">
 
-<img src="https://img.shields.io/badge/Bandit-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-IAM-FF9900?style=for-the-badge"/><br>
 
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<b>AWS IAM</b>
 
-<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
+</td>
 
-<img src="https://img.shields.io/badge/OWASP_Dependency_Check-000000?style=for-the-badge"/>
+<td align="center">
 
-<img src="https://img.shields.io/badge/Open_Policy_Agent-7D32A8?style=for-the-badge&logo=openpolicyagent&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-VPC-FF9900?style=for-the-badge"/><br>
 
-<img src="https://img.shields.io/badge/Syft-326CE5?style=for-the-badge"/>
+<b>AWS VPC</b>
 
-</p>
+</td>
 
----
+<td align="center">
 
-## 📊 Monitoring & Observability
+<img src="https://img.shields.io/badge/AWS-Secrets_Manager-DD344C?style=for-the-badge"/><br>
 
-<p align="left">
+<b>Secrets Manager</b>
 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+</td>
 
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<td align="center">
 
-<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-DynamoDB-4053D6?style=for-the-badge"/><br>
 
-<img src="https://img.shields.io/badge/Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<b>DynamoDB</b>
 
-<img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</td>
 
-<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+</tr>
 
-</p>
+</table>
 
 ---
 
-## 💻 Programming Languages
+# 🔒 DevSecOps
 
-<p align="left">
+<table>
 
-<img src="https://skillicons.dev/icons?i=python,java,bash,c,cpp,html,css,javascript&theme=dark"/>
+<tr>
 
-</p>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/><br>
+
+<b>Trivy</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Checkov-000000?style=for-the-badge"/><br>
+
+<b>Checkov</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Hadolint-000000?style=for-the-badge"/><br>
+
+<b>Hadolint</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Bandit-FF0000?style=for-the-badge"/><br>
+
+<b>Bandit</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge"/><br>
+
+<b>SonarQube</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/><br>
+
+<b>OWASP ZAP</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/OPA-7D32A8?style=for-the-badge"/><br>
+
+<b>Open Policy Agent</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Syft-326CE5?style=for-the-badge"/><br>
+
+<b>Syft</b>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🖥 Operating Systems
+# 📊 Monitoring & Observability
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,arch&theme=dark"/>
-
-</p>
-
----
-
-## 🔐 Cyber Security
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/VAPT-E11D48?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CTF-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/YARA-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CAPA-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-
-</p>
+| Icon | Skill |
+|------|-------|
+| ![](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) | **Prometheus** |
+| ![](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) | **Grafana** |
+| ![](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) | **Loki** |
+| ![](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white) | **Tempo** |
+| ![](https://img.shields.io/badge/Alloy-F46800?style=flat-square&logo=grafana&logoColor=white) | **Alloy** |
 
 ---
 
+# 💻 Programming
+
+| Icon | Skill |
+|------|-------|
+| ![](https://skillicons.dev/icons?i=python) | **Python** |
+| ![](https://skillicons.dev/icons?i=java) | **Java** |
+| ![](https://skillicons.dev/icons?i=bash) | **Bash** |
+| ![](https://skillicons.dev/icons?i=html) | **HTML** |
+| ![](https://skillicons.dev/icons?i=css) | **CSS** |
+| ![](https://skillicons.dev/icons?i=javascript) | **JavaScript** |
 # 🚀 Featured Projects
 
 ## 🛡 Threat Intelligence Dashboard
