@@ -313,7 +313,6 @@ Education:
 | ![](https://skillicons.dev/icons?i=css) | **CSS** |
 | ![](https://skillicons.dev/icons?i=javascript) | **JavaScript** |
 
-## 🏆 Certifications
 
 
 # 🚀 Featured Projects
