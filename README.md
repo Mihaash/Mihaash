@@ -313,43 +313,8 @@ Education:
 | ![](https://skillicons.dev/icons?i=css) | **CSS** |
 | ![](https://skillicons.dev/icons?i=javascript) | **JavaScript** |
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🛡 Threat Intelligence Dashboard | Real-time malicious URL visualization dashboard | Python • HTML • CSS |
-| ⚙ Portfolio CI/CD | Automated deployment pipeline | Jenkins • Docker • GitHub |
-| 🔍 Malware-Capy | Malware capability analysis | Python • YARA • CAPA |
-
 ## 🏆 Certifications
 
-<p>
-
-<img src="https://img.shields.io/badge/Docker-Udemy-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Jenkins-Udemy-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-Udemy-326CE5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Linux-Udemy-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TryHackMe-Completed-green?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mihaash&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihaash&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Mihaash&style=for-the-badge&color=blue"/>
-
-</p>
 
 # 🚀 Featured Projects
 
