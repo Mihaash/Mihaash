@@ -4,9 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;DevSecOps+Enthusiast;Kubernetes+%7C+AWS+%7C+Terraform;CI%2FCD+Automation;Cyber+Security+Student" />
 
-</div><p align="center">
+</div>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:06B6D4&height=220&section=header&text=Mihaash%20Dharan&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
+
 <p align="center">
 
 <a href="mailto:mihaashdharan68@gmail.com">
@@ -22,355 +26,380 @@
 </a>
 
 </p>
-## 🚀 About Me
 
-```yaml
-Name: Mihaash Dharan
 
-Role: Aspiring DevOps & DevSecOps Engineer
+# 🚀 About Me
 
-Education:
-  B.E Computer Science (Cyber Security)
+I am **Mihaash Dharan**, a final-year **Cyber Security student** passionate about **Cloud, DevOps, and Security Engineering**.
 
-```
+I have hands-on experience with **AWS, Kubernetes, Docker, Terraform, Jenkins, and ArgoCD**. I have built **DevSecOps CI/CD pipelines** integrating security tools like **SonarQube, Trivy, Gitleaks, Checkov, and OWASP ZAP** to automate security testing.
+
+I also have experience in cybersecurity through **CTF competitions, threat intelligence projects, and security automation**. I continuously improve my skills in **cloud security, infrastructure automation, and secure software delivery**.
+
+I am looking for opportunities where I can contribute and grow as a **DevOps / DevSecOps Engineer**.
+
+
+---
 
 # 🛠 Tech Stack
 
+
 ## ☁️ DevOps & Cloud
 
+
 <table>
+
 <tr>
-<td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>
+<td align="center">
 
-<b>Docker</b>
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>
 
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>
-
-<b>Kubernetes</b>
+<br>Docker
 
 </td>
 
-<td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br>
+<td align="center">
 
-<b>Jenkins</b>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50"/>
 
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>
-
-<b>GitHub Actions</b>
+<br>Kubernetes
 
 </td>
 
-<td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=terraform" width="48"/><br>
+<td align="center">
 
-<b>Terraform</b>
+<img src="https://skillicons.dev/icons?i=jenkins" width="50"/>
+
+<br>Jenkins
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=githubactions" width="50"/>
+
+<br>GitHub Actions
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=terraform" width="50"/>
+
+<br>Terraform
 
 </td>
 
 </tr>
 
+
 <tr>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
 
-<b>Git</b>
+<br>Git
 
 </td>
+
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 
-<b>GitHub</b>
+<br>GitHub
 
 </td>
+
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=bash" width="48"/><br>
+<img src="https://skillicons.dev/icons?i=bash" width="50"/>
 
-<b>Bash</b>
+<br>Bash
 
 </td>
+
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
 
-<b>Linux</b>
+<br>Linux
 
 </td>
+
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br>
+<img src="https://skillicons.dev/icons?i=ubuntu" width="50"/>
 
-<b>Ubuntu</b>
+<br>Ubuntu
 
 </td>
+
 
 </tr>
 
 </table>
+
 
 ---
 
-# ☁️ AWS
+# ☁️ AWS Cloud
+
 
 <table>
 
 <tr>
 
-<td align="center" width="120">
+<td align="center">
 
-<img src="https://img.shields.io/badge/AWS-EKS-FF9900?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/AWS-EKS-FF9900?style=for-the-badge"/>
 
-<b>Amazon EKS</b>
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://img.shields.io/badge/AWS-ECR-FF9900?style=for-the-badge"/><br>
-
-<b>Amazon ECR</b>
+<br>EKS
 
 </td>
 
-<td align="center" width="120">
 
-<img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge"/><br>
+<td align="center">
 
-<b>Amazon EC2</b>
+<img src="https://img.shields.io/badge/AWS-ECR-FF9900?style=for-the-badge"/>
+
+<br>ECR
 
 </td>
 
-<td align="center" width="120">
 
-<img src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge"/><br>
+<td align="center">
 
-<b>Amazon S3</b>
+<img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge"/>
+
+<br>EC2
+
+</td>
+
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge"/>
+
+<br>S3
 
 </td>
 
 </tr>
+
 
 <tr>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/AWS-IAM-FF9900?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/AWS-IAM-FF9900?style=for-the-badge"/>
 
-<b>AWS IAM</b>
+<br>IAM
 
 </td>
+
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/AWS-VPC-FF9900?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/AWS-VPC-FF9900?style=for-the-badge"/>
 
-<b>AWS VPC</b>
+<br>VPC
 
 </td>
+
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/AWS-Secrets_Manager-DD344C?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/AWS-Secrets_Manager-DD344C?style=for-the-badge"/>
 
-<b>Secrets Manager</b>
+<br>Secrets Manager
 
 </td>
+
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/AWS-DynamoDB-4053D6?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/AWS-DynamoDB-4053D6?style=for-the-badge"/>
 
-<b>DynamoDB</b>
+<br>DynamoDB
 
 </td>
+
 
 </tr>
 
 </table>
+
 
 ---
 
-# 🔒 DevSecOps
+# 🔒 DevSecOps Tools
 
-<table>
 
-<tr>
+| Tool | Purpose |
+|---|---|
+| 🔐 Gitleaks | Secret Scanning |
+| 🐳 Hadolint | Dockerfile Security |
+| 🔍 Checkov | IaC Security |
+| 🐍 Bandit | Python SAST |
+| 📊 SonarQube | Code Quality & SAST |
+| 🛡 Trivy | Container Security |
+| 📦 Syft | SBOM Generation |
+| 🌐 OWASP ZAP | DAST Security Testing |
+| 🔐 OPA | Policy Enforcement |
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/><br>
-
-<b>Trivy</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/Checkov-000000?style=for-the-badge"/><br>
-
-<b>Checkov</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/Hadolint-000000?style=for-the-badge"/><br>
-
-<b>Hadolint</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/Bandit-FF0000?style=for-the-badge"/><br>
-
-<b>Bandit</b>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge"/><br>
-
-<b>SonarQube</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/><br>
-
-<b>OWASP ZAP</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/OPA-7D32A8?style=for-the-badge"/><br>
-
-<b>Open Policy Agent</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/Syft-326CE5?style=for-the-badge"/><br>
-
-<b>Syft</b>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
 # 📊 Monitoring & Observability
 
-| Icon | Skill |
-|------|-------|
-| ![](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) | **Prometheus** |
-| ![](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) | **Grafana** |
-| ![](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) | **Loki** |
-| ![](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white) | **Tempo** |
-| ![](https://img.shields.io/badge/Alloy-F46800?style=flat-square&logo=grafana&logoColor=white) | **Alloy** |
+
+| Tool | Usage |
+|-|-|
+| 🔥 Prometheus | Metrics Collection |
+| 📈 Grafana | Visualization |
+| 📜 Loki | Log Aggregation |
+| 🔎 Tempo | Distributed Tracing |
+| ⚙️ Alloy | Telemetry Collection |
+| 🚨 Alertmanager | Alert Management |
+
 
 ---
 
-# 💻 Programming
-
-| Icon | Skill |
-|------|-------|
-| ![](https://skillicons.dev/icons?i=python) | **Python** |
-| ![](https://skillicons.dev/icons?i=java) | **Java** |
-| ![](https://skillicons.dev/icons?i=bash) | **Bash** |
-| ![](https://skillicons.dev/icons?i=html) | **HTML** |
-| ![](https://skillicons.dev/icons?i=css) | **CSS** |
-| ![](https://skillicons.dev/icons?i=javascript) | **JavaScript** |
+# 💻 Programming Languages
 
 
+<table>
+
+<tr>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+
+Python
+
+</td>
+
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
+
+Java
+
+</td>
+
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=bash" width="50"/>
+
+Bash
+
+</td>
+
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+
+JavaScript
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+---
 
 # 🚀 Featured Projects
 
+
 ## 🛡 Threat Intelligence Dashboard
 
-Real-time dashboard that collects and visualizes malicious URLs from multiple threat feeds.
+Real-time dashboard that collects and visualizes malicious URLs from threat feeds.
 
 **Tech Stack**
 
 Python • HTML • CSS • Linux
 
+
 🔗 https://github.com/Mihaash/threat-inteldashboard
+
 
 ---
 
-## ⚙️ Portfolio CI/CD Deployment
+## ⚙️ DevSecOps CI/CD Pipeline
 
-Automated CI/CD pipeline using Jenkins, Docker and GitHub for continuous deployment.
+Automated secure CI/CD pipeline using:
 
-**Tech Stack**
+- Jenkins
+- Docker
+- Kubernetes
+- ArgoCD
+- SonarQube
+- Trivy
+- OWASP ZAP
 
-Docker • Jenkins • GitHub • Git
 
-🔗 https://github.com/Mihaash/Devops-project
+🔗 https://github.com/Mihaash/test
+
 
 ---
 
 ## 🔍 Malware-Capy
 
-Malware analysis framework using YARA and CAPA for capability detection.
+Malware analysis framework using:
 
-**Tech Stack**
+- YARA
+- CAPA
+- Python
 
-Python • YARA • CAPA
 
 🔗 https://github.com/Mihaash/Malware-capy
 
+
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Achievements
+
 
 | Certification | Platform |
-|---------------|----------|
+|-|-|
 | Docker | Udemy |
 | Jenkins | Udemy |
 | Kubernetes | Udemy |
-| Bash Scripting | Udemy |
 | Linux | Udemy |
+| Bash Scripting | Udemy |
 | VAPT | Udemy |
 | TryHackMe | TryHackMe |
-| Multiple CTFs | Various |
+| CTF Competitions | Various |
+
 
 ---
 
----
+# 📈 GitHub Stats
 
-# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mihaash&show_icons=true&theme=tokyonight"/>
+
+</p>
+
 
 <p align="center">
 
@@ -378,9 +407,11 @@ Python • YARA • CAPA
 
 </p>
 
+
 ---
 
-# 📈 Activity Graph
+# 📊 Activity Graph
+
 
 <p align="center">
 
@@ -388,24 +419,28 @@ Python • YARA • CAPA
 
 </p>
 
+
 ---
 
 # 📬 Connect With Me
 
+
 <p align="center">
+
 
 <a href="mailto:mihaashdharan68@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+
 <a href="https://linkedin.com/in/mihaash-dharan">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
+
 
 <a href="https://github.com/Mihaash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
+
 </p>
-
-
