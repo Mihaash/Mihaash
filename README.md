@@ -337,50 +337,63 @@ JavaScript
 
 # 🚀 Featured Projects
 
-
 ## 🛡 Threat Intelligence Dashboard
 
-Real-time dashboard that collects and visualizes malicious URLs from threat feeds.
+A **Threat Intelligence Dashboard** is a web-based security platform that **collects, analyzes, and visualizes malicious URLs** from multiple threat intelligence sources in real time. It helps security teams identify potentially harmful websites and enables the **blocking of malicious URLs** to protect against phishing attacks, malware, and other cyber threats.
 
-**Tech Stack**
+### ✨ Features
 
-Python • HTML • CSS • Linux
+- 🌐 Collects malicious URLs from multiple threat intelligence feeds.
+- 📊 Visualizes threat data through an interactive dashboard.
+- 🔍 Analyzes and searches suspicious URLs in real time.
+- 🚫 Blocks malicious URLs using firewall rules to enhance network security.
+- 📈 Provides threat statistics and insights for monitoring.
+- 🛡️ Integrates URL blocking mechanisms using **UFW firewall**.
+- 💾 Stores and manages threat intelligence data using **MySQL database**.
 
+### 🛠 Tech Stack
 
-🔗 https://github.com/Mihaash/threat-inteldashboard
+- **Backend:** Python, Flask
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Firewall & Security:**
+- **Operating System:** Linux
 
-
+🔗 **Repository:** https://github.com/Mihaash/threat-inteldashboard
 ---
-
 ## ⚙️ DevSecOps CI/CD Pipeline
 
-Automated secure CI/CD pipeline using:
-
-- Jenkins
-- Docker
-- Kubernetes
-- ArgoCD
-- SonarQube
-- Trivy
-- OWASP ZAP
+An **automated secure CI/CD pipeline** designed to build, test, scan, and deploy applications using DevOps and security best practices. The pipeline integrates security testing throughout the software delivery lifecycle to ensure secure and reliable deployments.
 
 
-🔗 https://github.com/Mihaash/test
-
+### 🛠 Tech Stack
+- **CI/CD:** Jenkins
+- **Build Tool:** Maven
+- **Code Coverage:** JaCoCo
+- **Containerization:** Docker
+- **Container Security:** Trivy
+- **Code Quality & SAST:** SonarQube
 
 ---
-
 ## 🔍 Malware-Capy
 
-Malware analysis framework using:
+**Malware-Capy** is an automated malware analysis framework designed to analyze suspicious files and identify malicious capabilities using static analysis techniques. The framework combines **YARA rules** for malware pattern detection and **CAPA** for capability identification to provide detailed insights into malware behavior.
 
-- YARA
-- CAPA
-- Python
+### ✨ Features
 
+- 🦠 Performs automated malware analysis on suspicious files.
+- 🔍 Detects malware patterns using custom **YARA rules**.
+- 🧩 Identifies malware capabilities using **CAPA**.
+- 📊 Generates detailed analysis reports.
+- 🔐 Helps security researchers understand malware functionality.
+- ⚡ Automates repetitive malware analysis tasks.
+- 🛡️ Supports threat hunting and malware investigation workflows.
 
-🔗 https://github.com/Mihaash/Malware-capy
+### 🛠 Tech Stack
 
+- **Programming Language:** Python
+- **Malware Detection:** YARA
+- **Capability Analysis:** CAPA
 
 ---
 
