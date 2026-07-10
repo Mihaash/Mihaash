@@ -27,17 +27,27 @@
 
 </p>
 
-
 # 🚀 About Me
 
-I am **Mihaash Dharan**, a final-year **Cyber Security student** passionate about **Cloud, DevOps, and Security Engineering**.
+<div align="center">
 
-I have hands-on experience with **AWS, Kubernetes, Docker, Terraform, Jenkins, and ArgoCD**. I have built **DevSecOps CI/CD pipelines** integrating security tools like **SonarQube, Trivy, Gitleaks, Checkov, and OWASP ZAP** to automate security testing.
+### 👋 Hi, I'm **Mihaash Dharan**
 
-I also have experience in cybersecurity through **CTF competitions, threat intelligence projects, and security automation**. I continuously improve my skills in **cloud security, infrastructure automation, and secure software delivery**.
+🎓 Final Year **Cyber Security Student**  
+☁️ Aspiring **DevOps & DevSecOps Engineer**  
+🔐 Passionate about **Cloud Security, Automation & Secure Infrastructure**
 
-I am looking for opportunities where I can contribute and grow as a **DevOps / DevSecOps Engineer**.
+</div>
 
+---
+
+### 💡 What I Do
+
+- 🚀 Build and automate **CI/CD pipelines** using Jenkins, GitHub Actions, Docker, and Kubernetes
+- ☁️ Deploy and manage cloud infrastructure using **AWS & Terraform**
+- 🔒 Implement **DevSecOps practices** by integrating security tools into development workflows
+- ☸️ Work with Kubernetes, Helm, ArgoCD, and GitOps-based deployments
+- 📊 Implement monitoring and observability using Prometheus, Grafana
 
 ---
 
