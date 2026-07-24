@@ -59,13 +59,13 @@ A **Threat Intelligence Dashboard** is a web-based security platform that **coll
 
 ### ✨ Features
 
-- 🌐 Collects malicious URLs from multiple threat intelligence feeds.
-- 📊 Visualizes threat data through an interactive dashboard.
-- 🔍 Analyzes and searches suspicious URLs in real time.
-- 🚫 Blocks malicious URLs using firewall rules to enhance network security.
-- 📈 Provides threat statistics and insights for monitoring.
-- 🛡️ Integrates URL blocking mechanisms using **UFW firewall**.
-- 💾 Stores and manages threat intelligence data using **MySQL database**.
+-  Collects malicious URLs from multiple threat intelligence feeds.
+-  Visualizes threat data through an interactive dashboard.
+-  Analyzes and searches suspicious URLs in real time.
+-  Blocks malicious URLs using firewall rules to enhance network security.
+-  Provides threat statistics and insights for monitoring.
+-  Integrates URL blocking mechanisms using **UFW firewall**.
+-  Stores and manages threat intelligence data using **MySQL database**.
 
 ### 🛠 Tech Stack
 
@@ -97,13 +97,13 @@ An **automated secure CI/CD pipeline** designed to build, test, scan, and deploy
 
 ### ✨ Features
 
-- 🦠 Performs automated malware analysis on suspicious files.
-- 🔍 Detects malware patterns using custom **YARA rules**.
-- 🧩 Identifies malware capabilities using **CAPA**.
-- 📊 Generates detailed analysis reports.
-- 🔐 Helps security researchers understand malware functionality.
-- ⚡ Automates repetitive malware analysis tasks.
-- 🛡️ Supports threat hunting and malware investigation workflows.
+-  Performs automated malware analysis on suspicious files.
+-  Detects malware patterns using custom **YARA rules**.
+-  Identifies malware capabilities using **CAPA**.
+-  Generates detailed analysis reports.
+-  Helps security researchers understand malware functionality.
+-  Automates repetitive malware analysis tasks.
+-  Supports threat hunting and malware investigation workflows.
 
 ### 🛠 Tech Stack
 
@@ -321,15 +321,12 @@ An **automated secure CI/CD pipeline** designed to build, test, scan, and deploy
 | Tool | Purpose |
 |---|---|
 | 🔐 Gitleaks | Secret Scanning |
-| 🐳 Hadolint | Dockerfile Security |
 | 🔍 Checkov | IaC Security |
 | 🐍 Bandit | Python SAST |
 | 📊 SonarQube | Code Quality & SAST |
 | 🛡 Trivy | Container Security |
 | 📦 Syft | SBOM Generation |
 | 🌐 OWASP ZAP | DAST Security Testing |
-| 🔐 OPA | Policy Enforcement |
-
 
 ---
 
@@ -340,10 +337,7 @@ An **automated secure CI/CD pipeline** designed to build, test, scan, and deploy
 |-|-|
 | 🔥 Prometheus | Metrics Collection |
 | 📈 Grafana | Visualization |
-| 📜 Loki | Log Aggregation |
-| 🔎 Tempo | Distributed Tracing |
-| ⚙️ Alloy | Telemetry Collection |
-| 🚨 Alertmanager | Alert Management |
+
 
 
 ---
